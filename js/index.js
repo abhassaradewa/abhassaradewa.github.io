@@ -1,3 +1,3 @@
 "use strict";
 
-window.location.replace("sutta/index.html");
+window.location.replace("1.pdf");
